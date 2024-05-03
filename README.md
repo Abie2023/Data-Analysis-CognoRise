@@ -14,7 +14,7 @@
   ```
   https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009
   ```
-## TASK 5: EMPLOYEE SALARIES FOR DIFFERENT JOB ROLS
+## TASK 5: EMPLOYEE SALARIES FOR DIFFERENT JOB ROLES
   ```
   https://www.kaggle.com/datasets/inductiveanks/employee-salaries-for-different-job-roles
   ```
